@@ -46,9 +46,4 @@ Chatbot: Goodbye! Have a nice day.
 ## Project Type
 
 Basic Python Internship Project
-## How to Run
 
-Run the following command:
-
-```bash
-python chatbot.py
